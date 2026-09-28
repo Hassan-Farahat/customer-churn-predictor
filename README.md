@@ -2,7 +2,7 @@
 
 An interactive Machine Learning web app built with Python, Streamlit, and Scikit-Learn to predict customer churn probability and highlight key risk factors in real time.
 
-🚀 **[Live Demo][(https://customer-churn-predictor.streamlit.app/](https://hassan-farahat-customer-churn-predictor-app-pynbef.streamlit.app/)](https://hassan-farahat-customer-churn-predictor-app-pynbef.streamlit.app/)**
+🚀 **[Live Demo](https://customer-churn-predictor.streamlit.app/](https://hassan-farahat-customer-churn-predictor-app-pynbef.streamlit.app/)](https://hassan-farahat-customer-churn-predictor-app-pynbef.streamlit.app/)**
 
 ---
 
