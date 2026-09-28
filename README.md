@@ -22,23 +22,3 @@ An interactive Machine Learning web app built with Python, Streamlit, and Scikit
 * **Scikit-Learn** (Machine Learning Model)
 * **Plotly Express** (Interactive Visualizations)
 * **Pandas & NumPy** (Data Processing)
-
----
-
-## 🚀 Quick Start (Local Run)
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Hassan-Farahat/customer-churn-predictor.git
-   cd customer-churn-predictor
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Launch the application:**
-   ```bash
-   streamlit run app.py
-   ```
